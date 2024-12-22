@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Agrohia</h1>
 <h3 align="center">I'm a full time web Developer</h3>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding Animation" /> 
+<img align="right" width="400" src="https://media.licdn.com/dms/image/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_600_2000/0/1663786260509?e=2147483647&v=beta&t=DYB6FnITNxuARcfpfcdvmdqdGx3nXJjBe7hEXOfLQXE" alt="coding Animation" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitagorhia&label=Profile%20views&color=0e75b6&style=flat" alt="rohitagorhia" /> </p>
 
